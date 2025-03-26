@@ -4,7 +4,6 @@
 - 🔭 Currently working on: Blockchain DApps, AI-powered platforms & HyperScale Web Apps  
 - 🌱 Deep diving into: Smart Contracts & Machine Learning  
 - 💬 Ask me about: Full Stack Architecture, Crypto Exchanges & Career Mentorship  
-- ⚡ Fun fact: Built 250+ projects in 14 years! 🚀  
 
 ---
 
@@ -43,12 +42,12 @@
 ## 📈 GitHub Activity & Stats  
 
 <a href="https://github.com/h0z3yn">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=h0z3yn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0z3yn&layout=compact&theme=vision-friendly-dark&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saeedix&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedix&layout=compact&theme=vision-friendly-dark&langs_count=8" />
 </a>
 
 <a href="https://github.com/h0z3yn">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=h0z3yn&theme=vision-friendly-dark&fire=FF0000" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=saeedix&theme=vision-friendly-dark&fire=FF0000" />
 </a>
 
 ---
