@@ -1,4 +1,4 @@
-# Hi there, I'm MHOSEYN SAEEDI 👨💻  
+# Hi there 👋, I'm MHOSEYN SAEEDI 
 **Senior Full Stack & Blockchain Developer**  
 
 - 🔭 Currently working on: Blockchain DApps, AI-powered platforms & HyperScale Web Apps  
@@ -17,6 +17,12 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)](https://typescriptlang.org)
 [![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity)](https://soliditylang.org)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](https://react.dev)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum)](https://ethereum.org)
 [![Tron](https://img.shields.io/badge/-TRON-FF060A?logo=tron)](https://tron.network)
@@ -24,23 +30,28 @@
 [![Web3](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js)](https://web3js.readthedocs.io)
 [![TON](https://img.shields.io/badge/-TON_Blockchain-0088CC?logo=telegram)](https://ton.org)
 
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)](https://aws.amazon.com)
-[![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache)](https://httpd.apache.org)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)](https://docker.com)
-[![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx)](https://nginx.org)
-
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)](https://tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)](https://pytorch.org)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)](https://pandas.pydata.org)
 
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)](https://aws.amazon.com)
+[![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache)](https://httpd.apache.org)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)](https://docker.com)
+[![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx)](https://nginx.org)
+
 ---
 
 ## 📈 GitHub Activity & Stats  
+<p align="center">
+  <a href="https://github.com/ahmed-tasin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saeedix&theme=radical" alt="saeedix's GitHub Contribution"/>
+  </a>
+</p>
 
 <a href="https://github.com/h0z3yn">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=saeedix&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_title=true" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedix&layout=compact&theme=vision-friendly-dark&langs_count=8&hide_title=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saeedix&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_title=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedix&layout=compact&theme=vision-friendly-dark&langs_count=8&hide_title=true" />
 </a>
 
 ---
