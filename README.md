@@ -17,12 +17,12 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)](https://typescriptlang.org)
 [![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity)](https://soliditylang.org)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react)](https://react.dev)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?labelColor=black&logo=node.js&logoColor)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum)](https://ethereum.org)
 [![Tron](https://img.shields.io/badge/-TRON-FF060A?logo=tron)](https://tron.network)
@@ -45,7 +45,7 @@
 ## 📈 GitHub Activity & Stats  
 <p align="center">
   <a href="https://github.com/ahmed-tasin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saeedix&theme=radical" alt="saeedix's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saeedix&theme=radical&hide_title=true" alt="saeedix's GitHub Contribution"/>
   </a>
 </p>
 
