@@ -49,9 +49,9 @@
   </a>
 </p>
 
-<a href="https://github.com/h0z3yn">
+<a href="https://github.com/saeedix">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saeedix&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_title=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedix&layout=compact&theme=vision-friendly-dark&langs_count=8&hide_title=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedix&layout=compact&theme=vision-friendly-dark&langs_count=7&hide_title=true" />
 </a>
 
 ---
