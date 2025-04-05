@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on: Blockchain DApps, AI-powered platforms & HyperScale Web Apps  
 - 🌱 Deep diving into: Smart Contracts & Machine Learning  
-- 💬 Ask me about: Full Stack Architecture, Crypto Exchanges & Career Mentorship  
+- 💬 Ask me about: Full Stack Architecture, Crypto Exchanges
 
 ---
 
