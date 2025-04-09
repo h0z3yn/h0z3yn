@@ -19,7 +19,7 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&labelColor=000000)](https://react.dev)
 ![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?labelColor=black&logo=node.js&logoColor=white&labelColor=000000)
-![Ruby](https://img.shields.io/badge/-Ruby-61DAFB?logo=Ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-E0115F?logo=Ruby&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
