@@ -57,6 +57,6 @@
 ---
 
 ## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/h0z3yn)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/h0z3yn)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail)](mailto:mhoseyn.saeedienq@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2)](https://linkedin.com/in/h0z3yn)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4)](https://t.me/h0z3yn)
+[![Email](https://img.shields.io/badge/-Email-EA4335)](mailto:mhoseyn.saeedienq@gmail.com)
